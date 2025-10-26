@@ -6,7 +6,7 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 **Selfx402** is a decentralized marketplace and payment framework combining Self Protocol (zero-knowledge passport verification) with x402 (HTTP-native crypto micropayments) to create tiered pricing where verified humans pay 1000-2000x less than bots.
 
-**Tagline**: "Verify once, pay instantly, access everything"
+**Tagline**: "Verify once, apay instantly, access everything"
 
 **Key Innovation**: Self Protocol determines WHO you are (bot vs unique human), x402 handles HOW you pay (instant micropayments), enabling dynamic tiered pricing without traditional user accounts or databases.
 
